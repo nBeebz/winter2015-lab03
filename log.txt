@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Quotes CMS</title>
+        <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <link href="/assets/css/bootstrap.min.css" rel="stylesheet" media="screen"/>
+        <link rel="stylesheet" type="text/css" href="/assets/css/style.css"/>
+    </head>
+    <body>
+        <div class="container">
+            <div class="navbar">
+                <div class="navbar-inner">
+                    <a class="brand" href="/"><img src="/assets/images/logo.png"/></a>
+                    <ul class="nav">
+    
+    <li><a href="/first">First</a></li>
+    
+    <li><a href="/last">Last</a></li>
+    
+</ul>
+ </div>
+            </div>           
+            <div id="content">
+                <h1>Quotes CMS</h1>
+                <div class="row">
+    <div class="span3"><img src="/data/bob-monkhouse-150x150.jpg" title="Bob Monkhouse"/></div>
+    <div class="span8 offset1">
+        <p class="lead">PENIS</p><br/>
+        <p class="text-right">Bob Monkhouse</p>
+    </div>
+</div>
+            </div>
+            <div id="footer" class="span12">
+                Copyright &copy; 2014,  <a href="mailto:someone@somewhere.com">Me</a>.
+            </div>
+        </div>
+        <script src="/assets/js/jquery-1.11.1.min.js"></script>
+        <script src="/assets/js/bootstrap.min.js"></script>
+    </body>
+</html>
